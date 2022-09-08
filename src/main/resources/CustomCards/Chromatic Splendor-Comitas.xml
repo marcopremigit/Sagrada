@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<card>
+    <scheme favors="4" name="Chromatic Splendor" columns="5" rows="4">
+        <cell color="W" number="0">Cell0</cell>
+        <cell color="W" number="0">Cell1</cell>
+        <cell color="G" number="0">Cell2</cell>
+        <cell color="W" number="0">Cell3</cell>
+        <cell color="W" number="0">Cell4</cell>
+        <cell color="W" number="2">Cell5</cell>
+        <cell color="Y" number="0">Cell6</cell>
+        <cell color="W" number="5">Cell7</cell>
+        <cell color="B" number="0">Cell8</cell>
+        <cell color="W" number="1">Cell9</cell>
+        <cell color="W" number="0">Cell10</cell>
+        <cell color="R" number="0">Cell11</cell>
+        <cell color="W" number="3">Cell12</cell>
+        <cell color="P" number="0">Cell13</cell>
+        <cell color="W" number="0">Cell14</cell>
+        <cell color="W" number="1">Cell15</cell>
+        <cell color="W" number="0">Cell16</cell>
+        <cell color="W" number="6">Cell17</cell>
+        <cell color="W" number="0">Cell18</cell>
+        <cell color="W" number="4">Cell19</cell>
+    </scheme>
+    <scheme favors="5" name="Comitas" columns="5" rows="4">
+        <cell color="Y" number="0">Cell0</cell>
+        <cell color="W" number="0">Cell1</cell>
+        <cell color="W" number="2">Cell2</cell>
+        <cell color="W" number="0">Cell3</cell>
+        <cell color="W" number="6">Cell4</cell>
+        <cell color="W" number="0">Cell5</cell>
+        <cell color="W" number="4">Cell6</cell>
+        <cell color="W" number="0">Cell7</cell>
+        <cell color="W" number="5">Cell8</cell>
+        <cell color="Y" number="0">Cell9</cell>
+        <cell color="W" number="0">Cell10</cell>
+        <cell color="W" number="0">Cell11</cell>
+        <cell color="W" number="0">Cell12</cell>
+        <cell color="Y" number="0">Cell13</cell>
+        <cell color="W" number="5">Cell14</cell>
+        <cell color="W" number="1">Cell15</cell>
+        <cell color="W" number="2">Cell16</cell>
+        <cell color="Y" number="0">Cell17</cell>
+        <cell color="W" number="3">Cell18</cell>
+        <cell color="W" number="0">Cell19</cell>
+    </scheme>
+</card>
